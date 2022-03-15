@@ -1,0 +1,25 @@
+{
+  "contas": [
+    {
+      "id": 1,
+      "descricao": "Internet (BrisaNet)",
+      "valor": 100,
+      "vencimento": "20/03",
+      "pago": "0"
+    },
+    {
+      "id": 2,
+      "descricao": "Luz",
+      "valor": 100,
+      "vencimento": "15/03",
+      "pago": "0"
+    },
+    {
+      "id": 3,
+      "descricao": "Água",
+      "valor": 100,
+      "vencimento": "15/03",
+      "pago": "0"
+    }
+  ]
+}
